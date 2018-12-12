@@ -1,6 +1,6 @@
-第一个git
+第一个git （dev）
 
-git 提交第二个（master）
+git 提交第二个（dev）
 
 
-abcdefg
+abcdefg （dev）
